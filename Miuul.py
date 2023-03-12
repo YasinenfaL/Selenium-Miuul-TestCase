@@ -93,4 +93,4 @@ def fill_form_miuul(name, surname, email, phone_number, program_name, message):
     return "The form has been successfully filled."
 
 
-fill_form_miuul("Name", "Surname", "email", "number", "Veri Bilimi Kayıt", "Selenium Deneme")
+fill_form_miuul("Yasin", "Üzümcü", "enfalu@gmail", "5355252211", "Veri Bilimi Kayıt", "Boot camp'de görüşmek üzere:)")
