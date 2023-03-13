@@ -4,8 +4,5 @@ The purpose of this project is to use the Selenium library to test websites in a
 
 URL="https://miuul.com/data-scientist-bootcamp"
 
-### It is shown how to inspect HTML structures and which IDs you should take.
 
-<a href="https://ibb.co/m9Bwwc9"><img src="https://i.ibb.co/2v6QQkv/HTML.jpg" alt="HTML" border="0"></a>
-
-<a href="https://ibb.co/4JJRg4L"><img src="https://i.ibb.co/b775RNV/html2.jpg" alt="html2" border="0"></a>
+![Test-Case](https://user-images.githubusercontent.com/111612847/224582658-8c65d715-9794-4c58-a733-d7b74f96055f.gif)
